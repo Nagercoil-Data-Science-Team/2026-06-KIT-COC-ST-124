@@ -1,1 +1,3 @@
-# 2026-06-KIT-COC-ST-124
+Title: Sustainable Materials in Product Design Balancing Functionality Aesthetics and Environmental Impact
+
+Domain:sustainable material design,CAD
